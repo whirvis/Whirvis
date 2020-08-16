@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
+Hi! I'm Whirvis. I'm the creator of Ardenus Studios, Whirvex Software, as well
+as JRakNet! At the moment, I'm currently working on a myriad of projects. This
+includes:
 
-<!--
-**Whirvis/Whirvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ardenus Studios
+ - The Ardenus Engine
+ - The Ardenus Vapora
+ - Five Nights at Freddy's 3 DX
 
-Here are some ideas to get you started:
+### Whirvex Software
+ - Whirvex Args
+ - Whirvex Command
+ - Whirvex Event
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Collaboration/Contact
+I'm open to collaborate with anyone who would like to collaborate with me!
+Futhermore, if you are interested in working on any of these projects, give me
+a quick shout at ``whirvis@ardenus.org``. I'd love to welcome some new members
+to a team! I can be reached on Discord as well at ``Whirvis#0001``. I'm actually
+online quite often over there! I don't mind pings from strangers, so long as
+they aren't spam ;)
