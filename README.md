@@ -3,15 +3,15 @@ Hi! I'm Whirvis. I'm the creator of Ardenus Studios, Whirvex Software, as well
 as JRakNet! At the moment, I'm currently working on a myriad of projects. This
 includes:
 
-### Ardenus Studios
- - The Ardenus Engine
- - The Ardenus Vapora
- - Five Nights at Freddy's 3 DX
+### Ardenus Studios 🎮
+ - The Ardenus Engine 🌌
+ - The Ardenus Vapora 🔮
+ - Five Nights at Freddy's 3 DX 😱
 
-### Whirvex Software
- - Whirvex Args
- - Whirvex Command
- - Whirvex Event
+### Whirvex Software 💾
+ - Whirvex Args 🎲
+ - Whirvex Command 💻
+ - Whirvex Event 💥
 
 # Collaboration/Contact
 I'm open to collaborate with anyone who would like to collaborate with me!
