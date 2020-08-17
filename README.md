@@ -16,6 +16,6 @@ the moment, I'm currently working on a myriad of projects. This includes:
 I'm open to collaborate with anyone who would like to collaborate with me!
 If you are interested in working on any of these projects, give me a quick
 shout at <a href="mailto:swhirvis@ardenus.org">whirvis@ardenus.org</a>. I'd
-love to form a team for these organization! I can be reached on Discord as
-well at ``Whirvis#0001``. I'm actually online quite often over there! I don't
-mind pings from strangers, so long as they aren't spam ;)
+love to form a team for these organizations! I can also be reached on Discord
+at ``Whirvis#0001``. I'm actually online quite often over there! I don't mind
+pings from strangers, so long as they aren't spam ;)
