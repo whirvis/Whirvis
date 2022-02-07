@@ -19,3 +19,7 @@ shout at <a href="mailto:whirvis@ardenus.org">whirvis@ardenus.org</a>. I'd
 love to form a team for these organizations! I can also be reached on Discord
 at ``Whirvis#0001``. I'm actually online quite often over there! I don't mind
 pings from strangers, so long as they aren't spam ;)
+
+[![Twitter Profile](https://img.shields.io/twitter/follow/whirvis?style=social)](https://twitter.com/whirvis)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC9wxFSON2eQRSxE2OUznP8w?style=social)](https://www.youtube.com/channel/UC9wxFSON2eQRSxE2OUznP8w)
+[![Twitch Channel](https://img.shields.io/twitch/status/whirvis?style=social)](https://www.twitch.tv/whirvis)
