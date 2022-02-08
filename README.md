@@ -20,6 +20,10 @@ love to form a team for these organizations! I can also be reached on Discord
 at ``Whirvis#0001``. I'm actually online quite often over there! I don't mind
 pings from strangers, so long as they aren't spam ;)
 
-[![Twitter Profile](https://img.shields.io/twitter/follow/whirvis?style=social)](https://twitter.com/whirvis)
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC9wxFSON2eQRSxE2OUznP8w?style=social)](https://www.youtube.com/channel/UC9wxFSON2eQRSxE2OUznP8w)
-[![Twitch Channel](https://img.shields.io/twitch/status/whirvis?style=social)](https://www.twitch.tv/whirvis)
+<p>
+  <a href="https://twitter.com/whirvis/"><img src="https://img.shields.io/twitter/follow/whirvis?style=flat&logo=twitter&color=%2300acee&label=%40whirvis" alt="Twitter"></a>
+  <a href="https://reddit.com/u/whirvis/"><img src="https://img.shields.io/reddit/user-karma/combined/whirvis?style=flat&logo=reddit&color=%23FF5700&label=u%2Fwhirvis" alt="Reddit"></a>
+  <a href="https://youtube.com/c/whirvis/"><img src="https://img.shields.io/youtube/channel/subscribers/UC9wxFSON2eQRSxE2OUznP8w?style=flat&logo=youtube&logoColor=red&label=Whirvis" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/whirvis/"><img src="https://img.shields.io/twitch/status/whirvis?style=flat&logo=twitch&color=%23815fc0&label=Whirvis" alt="Twitch"></a>
+  <a href="https://discord.gg/ShVPZBY6kY"><img src="https://img.shields.io/discord/681551864902320156?logo=Discord&color=%235865F2&label=Whirvex Software" alt="Discord"></a>
+</p>
