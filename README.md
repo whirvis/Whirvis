@@ -30,3 +30,10 @@ so long as they aren't spam. I don't want to join your Minecraft server, you sil
 <a href="https://github.com/whirvis/ketill">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=ketill&theme=github_dark&show_icons=true" />
 </a>
+<br>
+<a href="https://github.com/whirvis/ardenus-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=ardenus-engine&theme=github_dark&show_icons=true" />
+</a>
+<a href="https://github.com/whirvis/ennel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=ennel&theme=github_dark&show_icons=true" />
+</a>
