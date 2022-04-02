@@ -24,6 +24,7 @@ so long as they aren't spam. I don't want to join your Minecraft server, you sil
 
 # 📌 Pinned Repositories
 
+<!-- This isn't necessary at the moment, so just leave these commented out for now.
 <a href="https://github.com/whirvis/jraknet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=jraknet&theme=github_dark&show_icons=true" />
 </a>
@@ -37,3 +38,4 @@ so long as they aren't spam. I don't want to join your Minecraft server, you sil
 <a href="https://github.com/whirvis/ennel">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=ennel&theme=github_dark&show_icons=true" />
 </a>
+-->
