@@ -22,9 +22,9 @@ I'm open to collaborate with anyone who would like to! If you are interested in 
 give me a shout on Discord! I can be reached at `Whirvis#0001`. I'm online quite often over there! I don't mind pings from strangers,
 so long as they aren't spam. I don't want to join your Minecraft server, you silly goose!
 
+<!-- This isn't necessary at the moment, so just leave these commented out for now.
 # 📌 Pinned Repositories
 
-<!-- This isn't necessary at the moment, so just leave these commented out for now.
 <a href="https://github.com/whirvis/jraknet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=jraknet&theme=github_dark&show_icons=true" />
 </a>
