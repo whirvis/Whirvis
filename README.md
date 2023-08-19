@@ -7,9 +7,9 @@
 
 # 📣 Heya, my name's Whirvis!
 
-I'm the creator of [JRakNet](https://github.com/whirvis/jraknet), [Ketill](https://github.com/whirvis/ketill), and more!
-I'm a self taught software engineer from the age of twelve and an aspring game developer. I code mostly in Java at the
-moment, although I plan to code in more programming languages soon! I haven't had the incentive to just yet, haha.
+I'm the creator of [JRakNet](https://github.com/whirvis/jraknet) and [Ketill](https://github.com/whirvis/ketill).
+I'm a self taught software engineer from the age of twelve, and an aspring game developer. I code primarily in Java
+and C, although I'm happy to code in other languages as needed.
 
 <a href="https://github.com/whirvis">
   <img src="https://github-readme-stats.vercel.app/api/?username=whirvis&theme=github_dark&show_icons=true" />
