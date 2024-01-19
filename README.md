@@ -11,11 +11,13 @@ I'm the creator of [JRakNet](https://github.com/whirvis/jraknet) and [Ketill](ht
 I'm a self taught software engineer from the age of twelve, and an aspring game developer. I code primarily in Java
 and C, although I'm happy to code in other languages as needed.
 
+<!--
 <a href="https://github.com/whirvis">
-  <img src="https://github-readme-stats.vercel.app/api/?username=whirvis&theme=github_dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=whirvis&theme=github_dark&show_icons=true" />
 </a>
+-->
 
-<!-- This isn't necessary at the moment, so just leave these commented out for now.
+<!--
 # 📌 Pinned Repositories
 
 <a href="https://github.com/whirvis/jraknet">
@@ -23,12 +25,5 @@ and C, although I'm happy to code in other languages as needed.
 </a>
 <a href="https://github.com/whirvis/ketill">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=ketill&theme=github_dark&show_icons=true" />
-</a>
-<br>
-<a href="https://github.com/whirvis/ardenus-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=ardenus-engine&theme=github_dark&show_icons=true" />
-</a>
-<a href="https://github.com/whirvis/ennel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whirvis&repo=ennel&theme=github_dark&show_icons=true" />
 </a>
 -->
