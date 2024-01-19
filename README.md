@@ -8,8 +8,8 @@
 # 📣 Heya, my name's Whirvis!
 
 I'm the creator of [JRakNet](https://github.com/whirvis/jraknet) and [Ketill](https://github.com/whirvis/ketill).
-I'm a self taught software engineer from the age of twelve, and an aspring game developer. I code primarily in Java
-and C, although I'm happy to code in other languages as needed.
+I'm a self taught software engineer from the age of twelve, and an aspring game developer. I code primarily in Java,
+Kotlin, and C. Of course, I am also happy to code in other languages as needed.
 
 <!--
 <a href="https://github.com/whirvis">
